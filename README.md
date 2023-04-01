@@ -1,0 +1,1 @@
+# EMKA-akademi-Veri-Kutuphanleri-egitimi-Pandas-odevi
